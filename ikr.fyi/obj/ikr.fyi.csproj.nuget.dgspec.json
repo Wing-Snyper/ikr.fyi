@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\naeem\\source\\repos\\Wing-Snyper\\ikr.fyi\\ikr.fyi\\ikr.fyi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\naeem\\source\\repos\\Wing-Snyper\\ikr.fyi\\ikr.fyi\\ikr.fyi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\naeem\\source\\repos\\Wing-Snyper\\ikr.fyi\\ikr.fyi\\ikr.fyi.csproj",
+        "projectName": "ikr.fyi",
+        "projectPath": "C:\\Users\\naeem\\source\\repos\\Wing-Snyper\\ikr.fyi\\ikr.fyi\\ikr.fyi.csproj",
+        "packagesPath": "C:\\Users\\naeem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naeem\\source\\repos\\Wing-Snyper\\ikr.fyi\\ikr.fyi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naeem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "NETStandard.Library.Ref",
+              "version": "[2.1.0, 2.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
